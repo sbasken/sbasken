@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saki</h1>
-<h3 align="center">A passionate and agile software developer based in Seattle, WA.</h3>
+<h3 align="center">A passionate and agile software engineering student/intern based in beautiful Seattle, WA.</h3>
 
 - 🌱 I’m currently learning **React**
 
