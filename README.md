@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbasken&" alt="sbasken" /></p>
 
-![Saki's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbasken&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbasken)](https://github.com/sbasken/github-readme-stats)
