@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbasken" alt="sbasken" /></a> </p>
 
-- 🌱 I’m currently learning **Flask*
+- 🌱 I’m currently learning **Flask**
 
 - 📝 I regularly write articles on [https://medium.com/@sbasken](https://medium.com/@sbasken)
 
