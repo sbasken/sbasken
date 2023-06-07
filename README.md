@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saki</h1>
 <h3 align="center">A Passionate Software Developer Based in Beautiful Seattle, WA.</h3>
 
-- 🌱 I’m currently learning **AWS**
+ 📝 I’m currently learning **Java, Angular, Typescript**
 
-- 📝 I regularly write articles on [https://medium.com/@sbasken](https://medium.com/@sbasken)
+ ☕️ I regularly write articles on [https://medium.com/@sbasken](https://medium.com/@sbasken)
+ 
+ ⚡️ Fun Facts: I was born and raised in Japan, went to College in England, and have lived in the US mostly in my adult life. This really nurtured my curiosity and my appreciation of diversity 🌏 📝
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
