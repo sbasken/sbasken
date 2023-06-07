@@ -5,7 +5,7 @@
 
  ☕️ I regularly write articles on [https://medium.com/@sbasken](https://medium.com/@sbasken)
  
- ⚡️ Fun Facts: 
+ ⚡️ Fun Facts: <br /> 
    👉 I was born and raised in Japan, went to College in England, and have lived in the US mostly in my adult life.<br />
      This really nurtured my curiosity and my appreciation of diversity 🌏 📝 <br /> 
    👉 I have 10+ years of experience in translation. <br /> 
