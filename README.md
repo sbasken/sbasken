@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saki</h1>
-<h3 align="center">A Passionate Software Developer Based in Beautiful Seattle, WA.</h3>
+<h3 align="center">A Passionate Software Developer Based in Beautiful Seattle 🗻</h3>
 
  📝 I’m currently learning **Java, Angular, Typescript**
 
