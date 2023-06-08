@@ -11,15 +11,13 @@
      👉 I have 10+ years of experience in translation. <br /> 
      👉 I bike everywhere! 🚴‍♀️ <br /> 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/baskensaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/baskensaki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saki-basken-51b3a151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saki-basken-51b3a151" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21845011/sbasken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21845011/sbasken" height="30" width="40" /></a>
 <a href="https://medium.com/@sbasken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sbasken" height="30" width="40" /></a>
 </p>
-<!-- BLOG-POST-LIST:END -->
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakibasken/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sbasken) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BaskenSaki) 
 <a href="https://www.freecodecamp.org/japanese/news/author/saki/"><img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg?logo=freecodecamp&logoColor=white" alt="freeCodeCamp" width="100" /></a>
 
 # 💻 Tech Stack:
