@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saki</h1>
 <h3 align="center">A Passionate Software Developer Based in Beautiful Seattle 🗻</h3>
 
- 📝 I’m currently learning **Angular, Typescript**
+ 📝 I’m currently learning **Next.js**
 
  ☕️ I regularly write articles on [https://medium.com/@sbasken](https://medium.com/@sbasken)
  
