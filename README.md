@@ -4,6 +4,7 @@
  📝 I’m currently learning **AWS (Developer)** and **PHP**
 
  ☕️ I regularly write articles on [https://medium.com/@sbasken](https://medium.com/@sbasken)
+ 🪪 Certified AWS Cloud Practitioner
  
  ⚡️ Fun Facts: <br /> 
      👉 I was born and raised in Japan, went to College in England, and have lived in the US mostly in my adult life.<br />
