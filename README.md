@@ -3,7 +3,7 @@
 
  📝 I’m currently learning **AWS (Developer)** and **PHP**
 
- ☕️ I regularly write articles on [https://medium.com/@sbasken](https://medium.com/@sbasken)
+ ☕️ I regularly write articles on [https://medium.com/@sbasken](https://medium.com/@sbasken) <br />
  🪪 Certified AWS Cloud Practitioner
  
  ⚡️ Fun Facts: <br /> 
