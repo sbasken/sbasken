@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saki</h1>
 <h3 align="center">A Passionate Software Developer Based in Beautiful Seattle 🗻</h3>
 
- 📝 I’m currently learning **AWS (Developer)** and **PHP**
+ 📝 I’m currently learning **Java**
 
  ☕️ I regularly write articles on [https://medium.com/@sbasken](https://medium.com/@sbasken) <br />
  🪪 Certified AWS Cloud Practitioner
