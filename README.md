@@ -5,7 +5,7 @@ Portfolio >>> https://www.sakibasken.com/
 
  📝 I’m currently working on a freelance project and learning **Java**
 
- ☕️ I regularly write articles on [https://medium.com/@sbasken](https://medium.com/@sbasken) <br />
+ ☕️ I regularly write articles on [Medium](https://medium.com/@sbasken) <br />
  🪪 Certified AWS Cloud Practitioner
  
  ⚡️ Fun Facts: <br /> 
