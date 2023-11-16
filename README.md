@@ -6,6 +6,7 @@ Portfolio >>> https://www.sakibasken.com/
  📝 I’m currently working on a freelance project and learning **Java**
 
  ☕️ I regularly write articles about my experience and insights on [Medium](https://medium.com/@sbasken) <br />
+ 📝 Technical translator for articles on [freeCodeCamp.org](https://www.freecodecamp.org/japanese/news/author/saki/) <br />
  🪪 Certified AWS Cloud Practitioner
  
  ⚡️ Fun Facts: <br /> 
