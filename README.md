@@ -15,10 +15,10 @@ Portfolio >>> https://www.sakibasken.com/
  🪪 Certified AWS Cloud Practitioner
  
  ⚡️ Fun Facts: <br /> 
-     👉 I was born and raised in Japan, went to College in England, and have lived in the US mostly in my adult life.<br />
+&nbsp;&nbsp;👉 I was born and raised in Japan, went to College in England, and have lived in the US mostly in my adult life.<br />
      This really nurtured my curiosity and my appreciation of diversity 🌏 📝 <br /> 
-     👉 I have 10+ years of experience in translation. <br /> 
-     👉 I bike (almost) everywhere! 🚴‍♀️ <br /> 
+&nbsp;&nbsp;👉 I have 10+ years of experience in translation. <br /> 
+&nbsp;&nbsp;👉 I bike (almost) everywhere! 🚴‍♀️ <br /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
