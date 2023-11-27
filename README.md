@@ -3,7 +3,7 @@
 
 Portfolio >>> https://www.sakibasken.com/
 
- 📝 I’m currently working on a freelance project and learning **Java** and **AWS**
+ 📝 I’m currently working part-time at TUO, enrolled in the AWS CloudUp for Her - AWS Solutions Architect Associate, working on a freelance project, and learning **Java**.
 
  ☕️ I regularly write articles about my experience and insights on [Medium](https://medium.com/@sbasken) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Technical Writer for [Stackademic](https://blog.stackademic.com/) <br />
