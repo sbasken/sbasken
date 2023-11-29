@@ -7,11 +7,7 @@ Portfolio >>> https://www.sakibasken.com/
 
  ☕️ I regularly write articles about my experience and insights on [Medium](https://medium.com/@sbasken) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Technical Writer for [Stackademic](https://blog.stackademic.com/) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Recent Articles: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;✍️ [Keeping Your Full-Stack App Responsive: Prevent Slow Startups Even on Free Instances on Render](https://blog.stackademic.com/keeping-your-full-stack-app-responsive-prevent-slow-startups-even-on-free-instances-on-render-093b260037a3) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;✍️ [Protecting Your API Keys: A Guide for Website Deployment](https://medium.com/stackademic/protecting-your-api-keys-a-guide-for-website-deployment-1e43d61f333a) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;✍️ [Emulator Hacks: Revealing console.log() Output for Seamless Debugging](https://medium.com/stackademic/emulator-hacks-revealing-console-log-output-for-seamless-debugging-a1b3ef343615) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;✍️ [Creating Custom Admonitions in Docusaurus React App](https://medium.com/stackademic/creating-custom-admonitions-in-docusaurus-react-app-cbe00c39339b) <br />
+
  📝 Technical translator for articles on [freeCodeCamp.org](https://www.freecodecamp.org/japanese/news/author/saki/) <br />
  🪪 Certified AWS Cloud Practitioner
  
