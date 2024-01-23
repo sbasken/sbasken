@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saki</h1>
-<h3 align="center">A Passionate Software Developer Based in Beautiful Seattle 🗻</h3>
+<h1 align="center">Hi I'm Saki 👋</h1>
+<h3 align="center">Software Engineer Based in Beautiful Seattle, WA 🗻</h3>
 
 Portfolio >>> https://www.sakibasken.com/
 
