@@ -3,7 +3,7 @@
 
 Portfolio >>> https://www.sakibasken.com/
 
- 📝 I’m currently working part-time at **TUO**, enrolled in the **AWS CloudUp for Her - AWS Solutions Architect Associate**, and working on a **freelance project**.
+ 📝 I work full time as a Developer at **VergeOps** and part time at **TUO**, and enrolled in the **AWS CloudUp for Her - AWS Solutions Architect Associate**.
 
  ☕️ I regularly write articles about my experience and insights on [Medium](https://medium.com/@sbasken) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Technical Writer for [Stackademic](https://blog.stackademic.com/) <br />
