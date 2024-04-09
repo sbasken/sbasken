@@ -3,10 +3,11 @@
 
 Portfolio >>> https://www.sakibasken.com/
 
- 📝 I work full time as Developer at **VergeOps** and part time at **TUO**, and enrolled in the **AWS CloudUp for Her - AWS Solutions Architect Associate**.
+ 📝 I work full time as Developer at **VergeOps** and part time at **TUO**.
 
  ☕️ I regularly write articles about my experience and insights on [Medium](https://medium.com/@sbasken) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Technical Writer for [Stackademic](https://blog.stackademic.com/) <br />
+&nbsp;&nbsp;&nbsp;&nbsp; Moderator for [freeCodeCamp.org](https://www.freecodecamp.org) <br />
 
  📝 Technical translator for articles on [freeCodeCamp.org](https://www.freecodecamp.org/japanese/news/author/saki/) <br />
  🪪 Certified AWS Cloud Practitioner
