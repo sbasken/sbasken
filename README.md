@@ -9,6 +9,7 @@
 
  📝 Technical translator for articles on [freeCodeCamp.org](https://www.freecodecamp.org/japanese/news/author/saki/) <br />
  🪪 Certified AWS Solutions Architect - Associate
+ 📝 Currently learning Machine Learning and studying for AWS Solutions Architect - Professional exam
  
  ⚡️ Fun Facts: <br /> 
 &nbsp;&nbsp;👉 I was born and raised in Japan, went to College in England, and have lived in the US mostly in my adult life.<br />
